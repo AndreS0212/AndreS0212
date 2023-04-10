@@ -1,16 +1,19 @@
-### Hi there 👋
+Hi there 👋
+My name is Carlos Soca and I'm a Full-Stack Web Developer based in Lima, Peru. I'm passionate about building web applications and enjoy learning new technologies and programming languages.
 
-<!--
-**AndreS0212/AndreS0212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I'm currently working on
+I'm currently working on personal projects to improve my skills in full-stack development. I'm also seeking new opportunities to collaborate with other developers and work on exciting projects.
 
-Here are some ideas to get you started:
+🌱 I'm currently learning
+I'm currently learning TypeScript and Next.js to further enhance my skills in full-stack development. I'm also interested in exploring other front-end frameworks and back-end technologies to expand my knowledge and stay up to date with the latest industry trends.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 Ask me about
+If you have any questions about my experience, skills, or current projects, feel free to reach out to me at andre021297@gmail.com or connect with me on LinkedIn to learn more about my work and experience.
+
+📫 How to reach me
+You can reach me via email at andre021297@gmail.com or connect with me on LinkedIn to learn more about my work and experience.
+
+⚡ Fun fact
+When I'm not coding, I enjoy playing video games and watching movies. I also love exploring new places and trying new foods.
+
+Thanks for stopping by!
